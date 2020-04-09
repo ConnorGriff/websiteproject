@@ -38,10 +38,23 @@ height: 250px;
     justify-content: center;
     flex-direction: column;
     align-items: center;
+    margin-left: 200px;
+    margin-right: 200px;
 }
 .links
 {
     border-style: double;
     display: flex;
     justify-content: space-evenly;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.questionscontainer
+{
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+    align-items: left;
+    margin-left: 200px;
+    margin-right:200px;
 }
