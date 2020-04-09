@@ -26,5 +26,22 @@ width: 50%;
 }
 .selfie
 {
-height: 500px;
+height: 250px;
+}
+.aboutme
+{
+    border-style: double;
+}
+.layoutcontainer
+{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.links
+{
+    border-style: double;
+    display: flex;
+    justify-content: space-evenly;
 }
