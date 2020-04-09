@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+
+h1
+{
+    font-size: 50px;
+}
+*
+{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+body
+{
+    background-color: black;
+    background-image: url("IMAGES/background.jpg");
+}
+h2
+{
+font-size: 16px;
+}
+.sunset
+{
+height: 50% ;
+width: 50%;
+}
+.selfie
+{
+height: 500px;
+}
